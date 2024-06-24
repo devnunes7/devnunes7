@@ -25,15 +25,21 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devpedronunes/)
 
 <!-- GithubStats -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnunes)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devnunes7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devnunes7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devnunes7&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
 
 <!-- Portfolio -->
 ## Portfolio: shortly
 
 
-<!-- GIF -->
+<!-- imagem -->
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  
 </p>
 
 ## 🔥 Skills
