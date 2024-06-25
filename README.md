@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Pedro Nunes! A passionate Analysis of Systems Development student from Brazil.
+  Hi 👋, I'm Pedro Nunes! A passionate Analysis of Systems Development student at Fiap from Brazil.
   
   - 🔭I'm looking for my first job opportunity. My dream is to work as a Software Engineer one day and improve my knowledge even further..
 </p>
@@ -17,7 +17,8 @@
 
   - 💬 I am 19 years old, currently living in Brazil. I have experience with HTML/CSS/JS, Bootstrap and React.
 
-  - ⚡I'm falling more and more in love with this area of ​​technology, I'm learning to read books now and it's become part of my day, and I'm looking for freelance jobs to test my knowledge in web development.\o/
+  - ⚡I'm falling more and more in love with this area of ​​technology, I'm learning to read books now and it's become part of my day, and I'm looking for freelance jobs to test my knowledge in web development.
+  - 📬 Contact me:dev.penunes@gmail.com
 </details>
 
 <!-- Links -->
